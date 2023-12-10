@@ -1,0 +1,1 @@
+This is a toy app created via the [Loco](https://loco.rs/) framework.
